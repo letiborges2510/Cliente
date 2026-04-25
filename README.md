@@ -60,7 +60,8 @@ POST /cliente
   "nome": "Maria Silva",
   "dataNascimento": "2000-05-10",
   "endereco": {
-    "rua": "Rua A",
+    "logradouro": "Rua A",
+    "numero": "123",
     "cidade": "São Paulo",
     "estado": "SP"
   }
